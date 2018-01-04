@@ -52,8 +52,8 @@ helpmsg ="""
 ╔═════════════
 ║ ✰ tɛǟʍ ċʏɮɛʀ-ǟʀʍʏ ɮօt ✰
 ╠═════════════
-║ Owner : Kris
-║ line://ti/p/~krissthea
+║ Owner : AlbertArta
+║ line://ti/p/albertarta
 ╠═════════════
 ║╔════════════
 ║╠❂➣facebook
@@ -93,7 +93,7 @@ keymsg ="""
 ╔═════════════
 ║ ✰ tɛǟʍ ċʏɮɛʀ-ǟʀʍʏ ɮօt ✰
 ╠═════════════
-║ Owner : Kris
+║ Owner : 
 ║ line://ti/p/~krissthea
 ╠═════════════
 ║╔════════════
