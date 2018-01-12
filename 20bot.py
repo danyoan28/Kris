@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+#ArtaSquad
 
 import KRIS
 from LINETCR.lib.curve.ttypes import *
